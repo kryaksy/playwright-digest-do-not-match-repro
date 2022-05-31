@@ -1,0 +1,15 @@
+{
+  "name": "playwright-digest-do-not-match-repro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "İbrahim Aksoy <ib.koray@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "env-cmd -f .env.playwright yarn playwright test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@playwright/test": "1.22.2",
+    "env-cmd": "10.1.0"
+  }
+}

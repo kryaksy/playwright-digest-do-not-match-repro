@@ -1,0 +1,189 @@
+<testsuites id="" name="" tests="28" failures="1" skipped="16" errors="0" time="20.105">
+<testsuite name="src/integration/dummy.spec.ts" timestamp="1654020232133" hostname="" tests="4" failures="0" skipped="0" time="14.787" errors="0">
+<testcase name="Dummy base 1 dummy 1" classname="src/integration/dummy.spec.ts:4:3 › Dummy base 1 › dummy 1" time="3.925">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy-Dummy-base-1-dummy-1/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy-Dummy-base-1-dummy-1/trace.zip]]
+
+</system-out>
+</testcase>
+<testcase name="Dummy base 1 dummy 2" classname="src/integration/dummy.spec.ts:9:3 › Dummy base 1 › dummy 2" time="3.618">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy-Dummy-base-1-dummy-2/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy-Dummy-base-1-dummy-2/trace.zip]]
+
+</system-out>
+</testcase>
+<testcase name="Dummy base 1 dummy 3" classname="src/integration/dummy.spec.ts:14:3 › Dummy base 1 › dummy 3" time="3.635">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy-Dummy-base-1-dummy-3/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy-Dummy-base-1-dummy-3/trace.zip]]
+
+</system-out>
+</testcase>
+<testcase name="Dummy base 1 dummy 4" classname="src/integration/dummy.spec.ts:19:3 › Dummy base 1 › dummy 4" time="3.609">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy-Dummy-base-1-dummy-4/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy-Dummy-base-1-dummy-4/trace.zip]]
+
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="src/integration/dummy2.spec.ts" timestamp="1654020232133" hostname="" tests="4" failures="0" skipped="1" time="14.163" errors="0">
+<testcase name="Dummy page1 dummy 1" classname="src/integration/dummy2.spec.ts:4:3 › Dummy page1 › dummy 1" time="4.86">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy2-Dummy-page1-dummy-1/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy2-Dummy-page1-dummy-1/trace.zip]]
+
+</system-out>
+</testcase>
+<testcase name="Dummy page1 dummy 2" classname="src/integration/dummy2.spec.ts:9:3 › Dummy page1 › dummy 2" time="4.647">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy2-Dummy-page1-dummy-2/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy2-Dummy-page1-dummy-2/trace.zip]]
+
+</system-out>
+</testcase>
+<testcase name="Dummy page1 dummy 3" classname="src/integration/dummy2.spec.ts:14:3 › Dummy page1 › dummy 3" time="4.656">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy2-Dummy-page1-dummy-3/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy2-Dummy-page1-dummy-3/trace.zip]]
+
+</system-out>
+</testcase>
+<testcase name="Dummy page1 dummy 4" classname="src/integration/dummy2.spec.ts:19:3 › Dummy page1 › dummy 4" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="src/integration/dummy3.spec.ts" timestamp="1654020232133" hostname="" tests="4" failures="0" skipped="0" time="18.717" errors="0">
+<testcase name="Dummy page2 dummy 1" classname="src/integration/dummy3.spec.ts:4:3 › Dummy page2 › dummy 1" time="4.886">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy3-Dummy-page2-dummy-1/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy3-Dummy-page2-dummy-1/trace.zip]]
+
+</system-out>
+</testcase>
+<testcase name="Dummy page2 dummy 2" classname="src/integration/dummy3.spec.ts:9:3 › Dummy page2 › dummy 2" time="4.598">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy3-Dummy-page2-dummy-2/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy3-Dummy-page2-dummy-2/trace.zip]]
+
+</system-out>
+</testcase>
+<testcase name="Dummy page2 dummy 3" classname="src/integration/dummy3.spec.ts:14:3 › Dummy page2 › dummy 3" time="4.64">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy3-Dummy-page2-dummy-3/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy3-Dummy-page2-dummy-3/trace.zip]]
+
+</system-out>
+</testcase>
+<testcase name="Dummy page2 dummy 4" classname="src/integration/dummy3.spec.ts:19:3 › Dummy page2 › dummy 4" time="4.593">
+<system-out>
+
+[[ATTACHMENT|test-results/src-integration-dummy3-Dummy-page2-dummy-4/video.webm]]
+
+[[ATTACHMENT|test-results/src-integration-dummy3-Dummy-page2-dummy-4/trace.zip]]
+
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="src/integration/dummy4.spec.ts" timestamp="1654020232133" hostname="" tests="4" failures="0" skipped="4" time="0" errors="0">
+<testcase name="Dummy page2 2 dummy 1" classname="src/integration/dummy4.spec.ts:4:3 › Dummy page2 2 › dummy 1" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page2 2 dummy 2" classname="src/integration/dummy4.spec.ts:9:3 › Dummy page2 2 › dummy 2" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page2 2 dummy 3" classname="src/integration/dummy4.spec.ts:14:3 › Dummy page2 2 › dummy 3" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page2 2 dummy 4" classname="src/integration/dummy4.spec.ts:19:3 › Dummy page2 2 › dummy 4" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="src/integration/dummy5.spec.ts" timestamp="1654020232133" hostname="" tests="4" failures="1" skipped="3" time="0" errors="0">
+<testcase name="Dummy page3 dummy 1" classname="src/integration/dummy5.spec.ts:4:3 › Dummy page3 › dummy 1" time="0">
+<failure message="dummy5.spec.ts:4:3 dummy 1" type="FAILURE">
+  src/integration/dummy5.spec.ts:4:3 › Dummy page3 › dummy 1 =======================================
+
+    Error: Digests do not match
+
+
+
+</failure>
+</testcase>
+<testcase name="Dummy page3 dummy 2" classname="src/integration/dummy5.spec.ts:9:3 › Dummy page3 › dummy 2" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page3 dummy 3" classname="src/integration/dummy5.spec.ts:14:3 › Dummy page3 › dummy 3" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page3 dummy 4" classname="src/integration/dummy5.spec.ts:19:3 › Dummy page3 › dummy 4" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="src/integration/dummy6.spec.ts" timestamp="1654020232133" hostname="" tests="4" failures="0" skipped="4" time="0" errors="0">
+<testcase name="Dummy page4 dummy 1" classname="src/integration/dummy6.spec.ts:4:3 › Dummy page4 › dummy 1" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page4 dummy 2" classname="src/integration/dummy6.spec.ts:9:3 › Dummy page4 › dummy 2" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page4 dummy 3" classname="src/integration/dummy6.spec.ts:14:3 › Dummy page4 › dummy 3" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page4 dummy 4" classname="src/integration/dummy6.spec.ts:19:3 › Dummy page4 › dummy 4" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+<testsuite name="src/integration/dummy7.spec.ts" timestamp="1654020232133" hostname="" tests="4" failures="0" skipped="4" time="0" errors="0">
+<testcase name="Dummy page2 3 dummy 1" classname="src/integration/dummy7.spec.ts:4:3 › Dummy page2 3 › dummy 1" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page2 3 dummy 2" classname="src/integration/dummy7.spec.ts:9:3 › Dummy page2 3 › dummy 2" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page2 3 dummy 3" classname="src/integration/dummy7.spec.ts:14:3 › Dummy page2 3 › dummy 3" time="0">
+<skipped>
+</skipped>
+</testcase>
+<testcase name="Dummy page2 3 dummy 4" classname="src/integration/dummy7.spec.ts:19:3 › Dummy page2 3 › dummy 4" time="0">
+<skipped>
+</skipped>
+</testcase>
+</testsuite>
+</testsuites>
