@@ -2,8 +2,9 @@
 
 ### To reproduce the error:
 
-1. `yarn`
-2. `yarn test --workers=3 --max-failures=1`
+1. Clone the repository
+2. `yarn`
+3. `yarn test --workers=3 --max-failures=1`
 
 ### Result should be like this:
 
